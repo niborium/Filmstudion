@@ -1,0 +1,141 @@
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\appsettings.json
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.exe
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.deps.json
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.runtimeconfig.json
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.runtimeconfig.dev.json
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\ref\Filmstudion.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.pdb
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.AssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\scopedcss\bundle\Filmstudion.styles.css
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\staticwebassets\Filmstudion.StaticWebAssets.Manifest.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.RazorTargetAssemblyInfo.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.CopyComplete
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\ref\Filmstudion.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.pdb
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.genruntimeconfig.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.exe
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.deps.json
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.runtimeconfig.json
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.runtimeconfig.dev.json
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\ref\Filmstudion.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Filmstudion.pdb
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.AssemblyInfo.cs
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\scopedcss\bundle\Filmstudion.styles.css
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\staticwebassets\Filmstudion.StaticWebAssets.Manifest.cache
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.CopyComplete
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\ref\Filmstudion.dll
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.pdb
+C:\Users\user\Downloads\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.genruntimeconfig.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\appsettings.Development.json
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\appsettings.json
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Filmstudion.exe
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Filmstudion.deps.json
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Filmstudion.runtimeconfig.json
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Filmstudion.runtimeconfig.dev.json
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Filmstudion.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\ref\Filmstudion.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Filmstudion.pdb
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\AutoMapper.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.AssemblyInfoInputs.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.AssemblyInfo.cs
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.CoreCompileInputs.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\scopedcss\bundle\Filmstudion.styles.css
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\staticwebassets\Filmstudion.StaticWebAssets.Manifest.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.RazorTargetAssemblyInfo.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.CopyComplete
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\ref\Filmstudion.dll
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.pdb
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.genruntimeconfig.cache
+E:\Project\Test Projects\Online Desk For Me\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\Desktop\gitrepos\Filmstudion\Filmstudion\obj\Debug\net5.0\Filmstudion.csproj.AssemblyReference.cache

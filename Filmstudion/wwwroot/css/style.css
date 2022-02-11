@@ -1,0 +1,8 @@
+﻿
+/*Change width on text inputs form control, add borders and text-align text to center*/
+.form-control {
+    width: 60% !important;
+    border: 2px solid black !important;
+    border-radius: 25px !important;
+    text-align: center !important;
+}

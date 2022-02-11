@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sveriges Förenade Filmstudios (SFF)</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js" defer asp-append-version="true"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto px-0">
+                <div id="sidebar" class="collapse collapse-horizontal show border-end">
+                    <div id="sidebar-nav" class="list-group border-0 rounded-0 text-sm-start min-vh-100">
+                        <a href="#" id="startpage" class="list-group-item border-end-0 d-inline-block text-truncate" data-bs-parent="#sidebar"><i class="bi bi-bootstrap"></i> <span>Startsida</span> </a>
+                        <a href="#" id="studios" class="list-group-item border-end-0 d-inline-block text-truncate" data-bs-parent="#sidebar"><i class="bi bi-film"></i> <span>Filmstudior</span></a>
+                        <a href="#" id="filmer" class="list-group-item border-end-0 d-inline-block text-truncate" data-bs-parent="#sidebar"><i class="bi bi-heart"></i> <span>Filmer</span></a>
+                        <a href="#" id="reg" class="list-group-item border-end-0 d-inline-block text-truncate" data-bs-parent="#sidebar"><i class="bi bi-bricks"></i> <span>Registrera</span></a>
+                        <a href="#" id="login" class="list-group-item border-end-0 d-inline-block text-truncate" data-bs-parent="#sidebar"><i class="bi bi-clock"></i> <span>Logga in</span></a>
+                    </div>
+                </div>
+            </div>
+            <main class="col ps-md-2 pt-2">
+                <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse" class="border rounded-3 p-1 text-decoration-none"><i class="bi bi-list bi-lg py-2 p-1"></i> Meny</a>
+                <div class="page-header pt-3">
+                    <h2>Sveriges Förenade Filmstudios (SFF)</h2>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-12">
+                        <center>
+                            <article id="article">
+                                <div id="logMessage"></div>
+                                <div id="content">
+                                    <div id="intro">
+                                        <h2>Välkommen</h2>
+                                        <h3>Filmer</h3>
+                                        <p>Här kan du se alla tillgängliga filmer som besökare</p>
+                                        <h3>Registrera</h3>
+                                        <p>Du måste vara registrerad filmstudio för att komma åt funktioner som att se era lånade filmer, låna exemplar och återlämna lånade exemplar.</p>
+                                        <h3>Logga in</h3>
+                                        <p>Inloggning för filmstudio (kräver användarnamn och lösenord)</p>
+                                        <h3>API Dokumentation (för utvecklare)</h3>
+                                        <p>Gå till följande sida: <a href="/swagger/index.html">API Dokumentation</a></p>
+                                    </div>
+                                </div>
+                            </article>
+                            <div id="rentMessage"></div>
+                        </center>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
